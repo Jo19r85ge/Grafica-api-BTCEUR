@@ -1,2 +1,2 @@
 # Grafica-api-BTCEUR
- jiininini
+ Project that connects to an external api and injects the data into a table.
